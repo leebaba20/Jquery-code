@@ -1,0 +1,47 @@
+*{
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+.boxx{
+    width: 100px;
+    height: 100px;
+}
+.prod{
+    margin-top: 10px;
+}
+
+#Outer{
+    border: 1px solid black;
+    padding-top: 30px;
+    height: 140px;
+    display: none;
+}
+
+#los{
+    background-color: indigo;
+}
+#loss{
+    background-color: lawngreen;
+}
+
+#pot{
+    background-color: darkgreen;
+}
+
+.selected{
+    display: block;
+    border: 2px solid green;
+    width: 150px;
+    height: 75px;
+    padding: 20px;
+    background-color: blue;
+   
+}
+
+
+
+
+.highlight{
+    background-color: aquamarine;
+}
